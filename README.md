@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=sabrieladriel)
 
 # 💫 About Me:
-🎓 I’m currently studying at East Systems Colleges of Rizal<br>📚 I’m learning Cybersecurity, UI/UX, and Web Development<br>👯 I’m looking to collaborate on Cybersecurity, UI/UX, and Web Development Projects<br>💬 Ask me about anything related to Tech<br>📫 How to reach me: https://www.linkedin.com/in/savvv/
+🎓 I’m currently studying at East Systems Colleges of Rizal<br>📚 I’m learning Cybersecurity, UI/UX, and Web Development<br>👯 I’m looking to collaborate on Cybersecurity, UI/UX, and Web Development Projects<br>💬 Ask me about anything related to Tech<br>📫 How to reach me: https://www.linkedin.com/in/sabrieladriel/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabrieladriel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sbrlzxc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrieladriel/)
